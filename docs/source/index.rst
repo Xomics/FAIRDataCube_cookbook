@@ -15,4 +15,5 @@ Contents
 .. toctree::
 
    usage
+   FAIR_workflows
    api
